@@ -1,0 +1,26 @@
+		; -------------
+  	 	  	; sample.avm -
+          ; -------------
+
+;;
+push int32(42); pllop
+push int32(33); push ta mere
+add
+push float(44.55)
+mul
+push double(42.42)
+push double(.4242);..
+push int32(42)
+push int32(42))
+push int22(42)
+push int32(42))
+dump
+pop
+pop i ;
+push double(42..42)
+plop 32
+pop 434
+push double(4242).
+assert double(42.42)
+exit
+push double(4242.)

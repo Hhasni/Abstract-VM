@@ -1,0 +1,9 @@
+push int8(-44)
+push int8(-86)
+sub
+dump
+push int8(-44)
+push int8(-86)
+add
+dump
+exit

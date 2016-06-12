@@ -1,0 +1,6 @@
+push int8(-42)
+push int8(-129)
+dump
+pop
+dump
+exit
